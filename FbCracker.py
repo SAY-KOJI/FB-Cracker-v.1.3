@@ -14,7 +14,7 @@ __banner__ = """
        +---------------------------------------+
        |#Author: <•=SAY-KOJI=•> <•=MR.SKY=•    |
        |#Contact: Telegram 081390962290        |
-       |#update : 15-9-2019    b               |
+       |#update : 15-9-2019                    |
        |#This tool is made for pentesting.     |
        |#Changing the description of this tool |
        |Won't made you the coder ^_^ !!!       |
