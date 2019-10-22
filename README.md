@@ -7,7 +7,7 @@
 # $ pkg install git
 # $ git clone https://github.com/SAY-KOJI/FB-Cracker-v.1.3
 # $ cd FB-Cracker-v.1.3
-# $ python2 Fbcracker.py
+# $ python2 FbCracker.py
 # $ [*] Enter [Email|Phone|Username|ID]: TARGET
 # $ pw.txt
 # $ clear
